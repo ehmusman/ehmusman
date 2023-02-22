@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **Dinisium (An Asset Management Ecosystem)**
+- 🔭 I’m currently working on **Trackerscore**
 
 - 🌱 I’m currently learning **Microservices and preparing for CKAD exam**
 
