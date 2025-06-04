@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ehmusman@gmail.com**
 
-- 📄 Know about my experiences [https://usman-bakhsh.vercel.app/Hafiz%20Muhammad%20Usman.pdf](https://usman-bakhsh.vercel.app/Hafiz%20Muhammad%20Usman.pdf)
+- 📄 Know about my experiences [https://usman-bakhsh.vercel.app/Hafiz-Muhammad-Usman.pdf](https://usman-bakhsh.vercel.app/Hafiz-Muhammad-Usman.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
