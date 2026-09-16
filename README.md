@@ -39,8 +39,8 @@ in workflow automation and CRM integrations across legal tech, sales, fintech an
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[Powerhouse](https://www.powerhouse.so)** | On-demand digital services SaaS platform generating $50K+ MRR. Backend services, CRM integrations, workflow automation and real-time data pipelines. | NestJS · Supabase (PostgreSQL) · Node.js |
-| **[Hammer](https://www.hammer.work)** | AI work platform that takes tasks from ticket to production across a team's tools. | — |
-| **[Liradocs](https://liradocs.com)** | Legal practice management SaaS for law firms: case management, client intake, legal billing, time tracking, document automation and eBrief court bundles. | — |
+| **[Hammer](https://www.hammer.work)** | AI work platform that takes tasks from ticket to production across a team's tools. | TypeScript · Python · AWS · Node.js · Next.js |
+| **[Liradocs](https://liradocs.com)** | Legal practice management SaaS for law firms: case management, client intake, legal billing, time tracking, document automation and eBrief court bundles. | TypeScript · Python · AWS · Node.js · Next.js |
 | **[Meeting Copilot](https://copilot.recruiting-now.de)** | AI sales assistant for Google Meet with real-time transcription, live sales coaching and automated Salesforce documentation. Built solo for a German B2B recruiting company, fully GDPR-compliant with EU-only data processing. | NestJS · React · AWS Bedrock (Claude) · Deepgram · Recall.ai · Salesforce API · MongoDB · Redis · Docker |
 | **[GoPDF](https://gopdf.io)** | Browser-based PDF toolkit to edit, convert, compress and e-sign documents, with AI chat-with-PDF built using LangChain, RAG and a vector database. | React · TypeScript · NestJS · LangChain · Vector DB |
 
