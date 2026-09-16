@@ -1,22 +1,118 @@
-<h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hafiz Muhammad Usman</h1>
 
-- 🔭 I’m currently working on **Depicted.ai**
-
-- 🌱 I’m currently learning generative AI
-
-- 👨‍💻 My recent projects are available at [https://usman-bakhsh.vercel.app](https://usman-bakhsh.vercel.app)
-
-- 📫 How to reach me **ehmusman@gmail.com**
-
-- 📄 Know about my experiences [https://usman-bakhsh.vercel.app/Hafiz-Muhammad-Usman.pdf](https://usman-bakhsh.vercel.app/Hafiz-Muhammad-Usman.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ehmusman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehmusman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafiz-muhammad-usman-b7765b172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-muhammad-usman-b7765b172" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hafiz muhammad usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafiz muhammad usman" height="30" width="40" /></a>
+<p align="center">
+  <strong>Senior Product Engineer &nbsp;|&nbsp; Full Stack &middot; AI</strong>
+  <br/>
+  Lahore, Pakistan
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://usman-bakhsh.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-usman--bakhsh.vercel.app-DC143C?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/forward-deployed-enginer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ehmusman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ehmusman@gmail.com-555555?style=flat-square" alt="Email" />
+  </a>
+  <a href="https://usman-bakhsh.vercel.app/Hafiz-Muhammad-Usman.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-555555?style=flat-square" alt="Download CV" />
+  </a>
+</p>
+
+---
+
+Senior Product Engineer with 7+ years building and shipping full stack SaaS products using
+React, Python, Node.js and AWS. Experienced in building AI-powered features and agentic
+workflows with LLMs (OpenAI, Claude via AWS Bedrock), LangChain and LangGraph, including
+prompt engineering, RAG with vector databases, and tool-calling. Owns features end to end,
+from architecture and APIs to UI, deployment and production support, with strong experience
+in workflow automation and CRM integrations across legal tech, sales, fintech and e-commerce.
+
+- 🔭 Currently **Backend Engineer at [Powerhouse](https://www.powerhouse.so)** (Jun 2024 – Present)
+- 🤖 Building LLM features, RAG chat and agentic workflows with LangChain / LangGraph
+- 📫 Reach me at **ehmusman@gmail.com**
+
+## Selected projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Powerhouse](https://www.powerhouse.so)** | On-demand digital services SaaS platform generating $50K+ MRR. Backend services, CRM integrations, workflow automation and real-time data pipelines. | NestJS · Supabase (PostgreSQL) · Node.js |
+| **[Hammer](https://www.hammer.work)** | AI work platform that takes tasks from ticket to production across a team's tools. | — |
+| **[Liradocs](https://liradocs.com)** | Legal practice management SaaS for law firms: case management, client intake, legal billing, time tracking, document automation and eBrief court bundles. | — |
+| **[Meeting Copilot](https://copilot.recruiting-now.de)** | AI sales assistant for Google Meet with real-time transcription, live sales coaching and automated Salesforce documentation. Built solo for a German B2B recruiting company, fully GDPR-compliant with EU-only data processing. | NestJS · React · AWS Bedrock (Claude) · Deepgram · Recall.ai · Salesforce API · MongoDB · Redis · Docker |
+| **[GoPDF](https://gopdf.io)** | Browser-based PDF toolkit to edit, convert, compress and e-sign documents, with AI chat-with-PDF built using LangChain, RAG and a vector database. | React · TypeScript · NestJS · LangChain · Vector DB |
+
+## Tech stack
+
+**AI &amp; LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-485563?style=flat-square)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-485563?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-485563?style=flat-square)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**Cloud &amp; DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD%20(GitHub%20Actions)-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Integrations**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| Backend Engineer | Powerhouse — USA, Remote | Jun 2024 – Present |
+| AI Engineer / Full-Stack Engineer (Contract) | Recruiting NOW GmbH — Germany, Remote | May 2026 – Jul 2026 |
+| Senior Full Stack Developer | Renesis Tech — Lahore | Apr 2022 – May 2024 |
+| Full Stack Engineer | OptimusFox — Lahore | Jul 2020 – Jul 2022 |
+| MERN Stack Developer | Jobesk — Lahore | Mar 2019 – May 2020 |
+
+B.Sc. Mechatronics and Control Engineering — UET Lahore, 2016 – 2020
+
+<p align="center">
+  <a href="https://github.com/ehmusman">
+    <img src="https://img.shields.io/badge/GitHub-ehmusman-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/ehmusman">
+    <img src="https://img.shields.io/badge/X-@ehmusman-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
